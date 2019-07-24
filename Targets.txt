@@ -1,0 +1,10 @@
+ArrayID	FileName	Group	Batch	Date	Array	Experimenter	Note
+cont1	MicroarrayGPRFiles/cont1.gpr	control	HA20358	151215	74616	MSM	??
+cont2	MicroarrayGPRFiles/cont2.gpr	control	HA20446	160212	91412	MSM	??
+WT_1	MicroarrayGPRFiles/WT_1.gpr	WT	HA20358	4182018	74602	CMJ	??
+D2A_1	MicroarrayGPRFiles/D2A_1.gpr	D2A	HA20358	4182018	74603	CMJ	??
+WT_2	MicroarrayGPRFiles/WT_2.gpr	WT	HA20446	5312018	91406	CMJ	??
+D2A_2	MicroarrayGPRFiles/D2A_2.gpr	D2A	HA20446	5312018	91456	CMJ	??
+cont3	MicroarrayGPRFiles/cont3.gpr	control	HA20446	5312018	91430	CMJ	??
+WT_3	MicroarrayGPRFiles/WT_3.gpr	WT	HA20446	06222018	91400	CMJ	??
+D2A_3	MicroarrayGPRFiles/D2A_3.gpr	D2A	HA20446	06222018	91418	CMJ	??
